@@ -21,13 +21,9 @@ The design focuses on layout consistency, modern UI, and clear presentation of p
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3**
-  - Flexbox
-  - Grid
-  - Transitions
-  - Variables (if used)
-- Optional: **JavaScript** (if you added interactions)
+- **Flexbox**
 
 
 ## 🌐 Live Demo
-[View Live Project] ()
+[View Live Project] (https://mohamed-abdalla-dev.github.io/pricing-table-master-html-css/)
 
